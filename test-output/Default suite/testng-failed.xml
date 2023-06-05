@@ -6,7 +6,7 @@
       <class name="apis.tests.TestStudents">
         <methods>
           <include name="init"/>
-          <include name="createStudentsTest"/>
+          <include name="deleteStudentsTest"/>
         </methods>
       </class> <!-- apis.tests.TestStudents -->
     </classes>
